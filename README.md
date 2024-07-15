@@ -39,11 +39,7 @@ Notre application Streamlit propose plusieurs fonctionnalités pour explorer et 
 - Streamlit
 - Pandas, NumPy, Matplotlib, Seaborn pour l'analyse et la visualisation des données
 
-
-
-
-![Dashboard Capture](captures/predict1.PNG)
-
+![Predictions](captures/predict1.png)
 
 
 ## Installation et Utilisation
