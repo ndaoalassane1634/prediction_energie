@@ -14,7 +14,11 @@ Ce projet vise à prédire  et à visualiser avec un dashboard la consommation d
 - `pages/`: Répertoire contenant le code source des pages de l'application Streamlit.
 - `model/`: Répertoire contenant le modèle sous format joblib
 
+  
+
 ![Dashboard Capture](captures/dashboard2.PNG)
+
+
 
 
 ## Fonctionnalités de l'Application Streamlit
@@ -35,7 +39,11 @@ Notre application Streamlit propose plusieurs fonctionnalités pour explorer et 
 - Streamlit
 - Pandas, NumPy, Matplotlib, Seaborn pour l'analyse et la visualisation des données
 
+
+
+
 ![Dashboard Capture](captures/predict1.PNG)
+
 
 
 ## Installation et Utilisation
