@@ -1,4 +1,7 @@
-# Projet de Prédiction de Consommation d'Énergie à Seattle
+# Prédiction de Consommation d'Énergie à Seattle en Machine Learning
+
+
+[Dashboard Capture](captures/dashboard1.PNG)
 
 
 ## Description du Projet
